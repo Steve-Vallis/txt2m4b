@@ -1,0 +1,9 @@
+kokoro-onnx
+onnxruntime
+soundfile
+requests
+numpy
+huggingface_hub
+pymupdf
+ebooklib
+beautifulsoup4
